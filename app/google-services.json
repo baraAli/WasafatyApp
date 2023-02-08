@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061245702465",
+    "firebase_url": "https://wasafatyapp-default-rtdb.firebaseio.com",
+    "project_id": "wasafatyapp",
+    "storage_bucket": "wasafatyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061245702465:android:4fceadf7f3b15b97ad51c0",
+        "android_client_info": {
+          "package_name": "com.example.wasafatyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061245702465-ggueu0ousm93iqlm32hc9kf5nitot5uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdPPVhrxx5uK18XLesMt-QmSio_qo3Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061245702465-ggueu0ousm93iqlm32hc9kf5nitot5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
